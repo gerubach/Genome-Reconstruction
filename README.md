@@ -1,4 +1,4 @@
-All of the code for this project is in the .cpp and .h files. For the executable, download the zip file. Once downloaded, DO NOT DELETE ANYTHING IN THE ZIP FILE! 
+All of the code for this project is in the .cpp and .h files. For the executable, download the zip file (there is also a short report in the zip file which does an analysis on the results collected). Once downloaded, DO NOT DELETE ANYTHING IN THE ZIP FILE! 
 When the program is started, it will ask you to enter 1 for the first set of trials and 0 for the second set of trials.
 
 The first set of trials constructs an arbitrary genome using a specified read length (there are no repeats in these trials). 
